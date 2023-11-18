@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoannaAndrews
-- 👀 I’m interested in machine learning applications in all fields, including computational biology, computer vision, and natural language processing.
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in machine learning applications in all fields, including computational biology,
+  computer vision, and natural language processing.
 - 📫 How to reach me email: jda242@cornell.edu
 
 <!---
